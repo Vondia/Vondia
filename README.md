@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Pim
+<h2>👋 Hi, I’m Pim</h2>
+
+<p>A Junior Full Stack Developer in development 🤓 </p>
+
 - 👀 I’m currently a student at Codaisseur (Feb 2021 - Apr 2021)
 - 📍 Amsterdam, Netherlands
 - 📫 How to reach me: pimvdbosch@gmail.com or visit my <a href="https://www.linkedin.com/in/pim-van-den-bosch-57a31436/">LinkedIn</a>
