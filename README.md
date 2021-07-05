@@ -2,7 +2,7 @@
 
 ### A Junior Full Stack Developer in development 🤓 
 
-- 👀 I’m currently a student at <a href="https://codaisseur.com/nl/">Codaisseur</a> (Feb 2021 - Apr 2021) 
+- 👀 I finished a full time coding bootcamp at <a href="https://codaisseur.com/nl/">Codaisseur</a> (Feb 2021 - Apr 2021) 
 - 📍 Amsterdam, Netherlands
 - 📫 How to reach me: pimvdbosch@gmail.com or visit my [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/pim-van-den-bosch-57a31436/)
 
