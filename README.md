@@ -3,6 +3,7 @@
 ### A Frontend developer in development 🤓 
 
 - :man_technologist: Frontend Developer at Reversed Digital, a digital agency in Utrecht
+- :mortar_board: Graduate <a href="https://codaisseur.com/">Codaisseur</a>
 - 📫 How to reach me: pimvdbosch@gmail.com or visit my [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/pim-van-den-bosch-57a31436/)
 
 ### Languages and Tools i've worked with:
